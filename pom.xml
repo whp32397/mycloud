@@ -65,8 +65,6 @@
         <artifactId>mysql-connector-java</artifactId>
         <version>${mysql.version}</version>
       </dependency>
-
-
       <!-- druid-->
       <dependency>
         <groupId>com.alibaba</groupId>
